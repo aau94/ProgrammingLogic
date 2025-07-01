@@ -11,10 +11,10 @@ class Program
     Console.WriteLine(Allen Au IT 1050) 
        //Step 3
     int favorite = 3;
-    Console.WriteLine(favorite); 
+    Console.WriteLine("My favorite number is" favorite); 
     string programminglanguage = Python
-    Console.WriteLine(programminglanguage);
+    Console.WriteLine("My favorite programming language is" programminglanguage);
     double NumProgramming = 1;
-    Console.WriteLine(NumProgramming);
-    bool programmingexperience = no
-    Console.WriteLine(programmingexperience); 
+    Console.WriteLine("The number of programs I've written is" NumProgramming);
+    bool programmingexperience = yes
+    Console.WriteLine("Do I have any experience programming?" programmingexperience); 
