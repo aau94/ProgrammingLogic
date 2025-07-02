@@ -21,3 +21,15 @@ class Program
       //Step 4
     SCHOOL_NAME = "Tri-C" #Declaring the constant string
     print(SCHOOL_NAME)    #Displaying the constant string
+      //Step 5
+    double myDouble = 9.78; 
+    int myInt = (int) myDouble; 
+    System.out.println("Converted value:" + myInt); // Output: Converted Value: 9
+    integer_value = 9
+    string_value = str(integer_value)
+    bool_value = True
+    string_value = str(bool_value)
+    print(string_value) # Output: True 
+    Console.WriteLine(double:9.78) 
+    Console.WriteLine(integer_value:9)
+    Console.WriteLine(bool_value:True)     
