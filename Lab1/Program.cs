@@ -18,3 +18,6 @@ class Program
     Console.WriteLine("The number of programs I've written is" NumProgramming);
     bool programmingexperience = yes
     Console.WriteLine("Do I have any experience programming?" programmingexperience); 
+      //Step 4
+    SCHOOL_NAME = "Tri-C" #Declaring the constant string
+    print(SCHOOL_NAME)    #Displaying the constant string
