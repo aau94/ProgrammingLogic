@@ -33,3 +33,14 @@ class Program
     Console.WriteLine(double:9.78) 
     Console.WriteLine(integer_value:9)
     Console.WriteLine(bool_value:True)     
+        //Step 6
+    Console.WriteLine("Enter name:")
+    string Name = Console.ReadLine();
+    Console.WriteLine("Name is:" + Name); 
+    Console.WriteLine("Enter your age:");
+    int age = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("Your age is:" + age);
+    print(f"Hello {name}! Your age is {age}.") 
+        //Step 7
+    int num1 = 5;
+    int num2 = 10;
