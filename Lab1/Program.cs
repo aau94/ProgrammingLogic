@@ -18,8 +18,8 @@ class Program
     bool experience = true;
     Console.WriteLine("I have programming experience" + experience);  
         //Step 4
-     const string schoolName = "Tri-C"; 
-     Console.WriteLine("My school name is:" + schoolName);   
+    const string schoolName = "Tri-C"; 
+    Console.WriteLine("My school name is:" + schoolName);   
         //Step 5
     double myDouble = 9.78;
     int myInt = (int)myDouble;
