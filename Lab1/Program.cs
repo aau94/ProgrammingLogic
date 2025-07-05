@@ -18,6 +18,7 @@ class Program
     bool experience = true;
     Console.WriteLine("I have programming experience" + experience);  
         //Step 4
+        
         //Step 5
     double myDouble = 9.78;
     int myInt = (int)myDouble;
@@ -31,5 +32,27 @@ class Program
     Console.WriteLine("Enter your age:");
     int age = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("Your age is:" + age);
-    Console.WriteLine("Hello" + username! + "You are age years old");    
+    Console.WriteLine("Hello" + username! + "You are age years old"); 
+        //Step 7
+    int num1 = 10;
+    int num2 = 20;
+    Console.WriteLine(num1 + 10); //20
+    Console.WriteLine(num2 + 10); //30
+    Console.WriteLine(num1 - 2);  //8
+    Console.WriteLine(num2 - 2);  //18
+    Console.WriteLine(num1 * 3);  //30
+    Console.WriteLine(num2 * 3);  //60
+    Console.WriteLine(num1 / 2);  //5
+    Console.WriteLine(num2 / 2);  //10
+    Console.WriteLine(num1 % 2);  //0
+    Console.WriteLine(num2 % 2);  //0
+        //Step 8
+    float myFloat = 1.123456789f;
+    double myDouble = 1.123456789;
+    //Double variable offers more precision with the decimal numbers
+        //Step 9
+     int num = 10;
+    Console.WriteLine(++num); //11
+    Console.WriteLine(--num); //9   
+        
         }
