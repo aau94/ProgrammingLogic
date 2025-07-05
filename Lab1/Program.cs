@@ -7,10 +7,10 @@ class Program
         //Step 1
         //Allen Au IT 1050 Lab1
         //Step 2
-    Console Write.Line(Allen Au IT 1050) 
+    Console Write.Line("Allen Au IT 1050") 
         //Step 3
     int favorite = 3;   
-    Console Write.Line("My favorite number is" + favorite);
+    Console WriteLine("My favorite number is" + favorite);
     string programminglanguage = "Python";     
     Console.WriteLine("My favorite programming language is" + programminglanguage);   
     double numberofprogramminglanguages = 1;
@@ -18,7 +18,8 @@ class Program
     bool experience = true;
     Console.WriteLine("I have programming experience" + experience);  
         //Step 4
-        
+     const string schoolName = "Tri-C"; 
+     Console.WriteLine("My school name is:" + schoolName);   
         //Step 5
     double myDouble = 9.78;
     int myInt = (int)myDouble;
@@ -48,7 +49,9 @@ class Program
     Console.WriteLine(num2 % 2);  //0
         //Step 8
     float myFloat = 1.123456789f;
-    double myDouble = 1.123456789;
+    double myDouble = 1.123456789d;
+    Console.WriteLine(myFloat);
+    Console.WriteLine(myDouble);    
     //Double variable offers more precision with the decimal numbers
         //Step 9
      int num = 10;
