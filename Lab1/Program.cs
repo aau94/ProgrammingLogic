@@ -7,7 +7,7 @@ class Program
         //Step 1
         //Allen Au IT 1050 Lab1
         //Step 2
-    Console Write.Line("Allen Au IT 1050") 
+    Console WriteLine("Allen Au IT 1050")} 
         //Step 3
     int favorite = 3;   
     Console WriteLine("My favorite number is" + favorite);
@@ -49,13 +49,13 @@ class Program
     Console.WriteLine(num2 % 2);  //0
         //Step 8
     float myFloat = 1.123456789f;
-    double myDouble = 1.123456789d;
+    myDouble = 1.123456789d;
     Console.WriteLine(myFloat);
     Console.WriteLine(myDouble);    
     //Double variable offers more precision with the decimal numbers
         //Step 9
      int num = 10;
     Console.WriteLine(++num); //11
-    Console.WriteLine(--num); //9   
+    Console.WriteLine(--num); //9}   
         
         }
