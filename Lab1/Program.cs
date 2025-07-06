@@ -7,10 +7,10 @@ class Program
         //Step 1
         //Allen Au IT 1050 Lab1
         //Step 2
-    Console WriteLine("Allen Au IT 1050")} 
+    Console.WriteLine("Allen Au IT 1050")} 
         //Step 3
     int favorite = 3;   
-    Console WriteLine("My favorite number is" + favorite);
+    Console.WriteLine("My favorite number is" + favorite);
     string programminglanguage = "Python";     
     Console.WriteLine("My favorite programming language is" + programminglanguage);   
     double numberofprogramminglanguages = 1;
